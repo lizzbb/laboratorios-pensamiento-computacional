@@ -1,0 +1,14 @@
+C:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL (lab) 1er semestre\Proyectos\PROYECTONO1\bin\Debug\net8.0\PROYECTONO1.exe
+C:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL (lab) 1er semestre\Proyectos\PROYECTONO1\bin\Debug\net8.0\PROYECTONO1.deps.json
+C:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL (lab) 1er semestre\Proyectos\PROYECTONO1\bin\Debug\net8.0\PROYECTONO1.runtimeconfig.json
+C:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL (lab) 1er semestre\Proyectos\PROYECTONO1\bin\Debug\net8.0\PROYECTONO1.dll
+C:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL (lab) 1er semestre\Proyectos\PROYECTONO1\bin\Debug\net8.0\PROYECTONO1.pdb
+C:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL (lab) 1er semestre\Proyectos\PROYECTONO1\obj\Debug\net8.0\PROYECTONO1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL (lab) 1er semestre\Proyectos\PROYECTONO1\obj\Debug\net8.0\PROYECTONO1.AssemblyInfoInputs.cache
+C:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL (lab) 1er semestre\Proyectos\PROYECTONO1\obj\Debug\net8.0\PROYECTONO1.AssemblyInfo.cs
+C:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL (lab) 1er semestre\Proyectos\PROYECTONO1\obj\Debug\net8.0\PROYECTONO1.csproj.CoreCompileInputs.cache
+C:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL (lab) 1er semestre\Proyectos\PROYECTONO1\obj\Debug\net8.0\PROYECTONO1.dll
+C:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL (lab) 1er semestre\Proyectos\PROYECTONO1\obj\Debug\net8.0\refint\PROYECTONO1.dll
+C:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL (lab) 1er semestre\Proyectos\PROYECTONO1\obj\Debug\net8.0\PROYECTONO1.pdb
+C:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL (lab) 1er semestre\Proyectos\PROYECTONO1\obj\Debug\net8.0\PROYECTONO1.genruntimeconfig.cache
+C:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL (lab) 1er semestre\Proyectos\PROYECTONO1\obj\Debug\net8.0\ref\PROYECTONO1.dll
