@@ -1,0 +1,14 @@
+C:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL (lab) 1er semestre\L5 -- Lizbeth Herera 1246024\bin\Debug\net8.0\L5 -- Lizbeth Herera 1246024.exe
+C:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL (lab) 1er semestre\L5 -- Lizbeth Herera 1246024\bin\Debug\net8.0\L5 -- Lizbeth Herera 1246024.deps.json
+C:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL (lab) 1er semestre\L5 -- Lizbeth Herera 1246024\bin\Debug\net8.0\L5 -- Lizbeth Herera 1246024.runtimeconfig.json
+C:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL (lab) 1er semestre\L5 -- Lizbeth Herera 1246024\bin\Debug\net8.0\L5 -- Lizbeth Herera 1246024.dll
+C:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL (lab) 1er semestre\L5 -- Lizbeth Herera 1246024\bin\Debug\net8.0\L5 -- Lizbeth Herera 1246024.pdb
+C:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL (lab) 1er semestre\L5 -- Lizbeth Herera 1246024\obj\Debug\net8.0\L5 -- Lizbeth Herera 1246024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL (lab) 1er semestre\L5 -- Lizbeth Herera 1246024\obj\Debug\net8.0\L5 -- Lizbeth Herera 1246024.AssemblyInfoInputs.cache
+C:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL (lab) 1er semestre\L5 -- Lizbeth Herera 1246024\obj\Debug\net8.0\L5 -- Lizbeth Herera 1246024.AssemblyInfo.cs
+C:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL (lab) 1er semestre\L5 -- Lizbeth Herera 1246024\obj\Debug\net8.0\L5 -- Lizbeth Herera 1246024.csproj.CoreCompileInputs.cache
+C:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL (lab) 1er semestre\L5 -- Lizbeth Herera 1246024\obj\Debug\net8.0\L5 -- Lizbeth Herera 1246024.dll
+C:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL (lab) 1er semestre\L5 -- Lizbeth Herera 1246024\obj\Debug\net8.0\refint\L5 -- Lizbeth Herera 1246024.dll
+C:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL (lab) 1er semestre\L5 -- Lizbeth Herera 1246024\obj\Debug\net8.0\L5 -- Lizbeth Herera 1246024.pdb
+C:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL (lab) 1er semestre\L5 -- Lizbeth Herera 1246024\obj\Debug\net8.0\L5 -- Lizbeth Herera 1246024.genruntimeconfig.cache
+C:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL (lab) 1er semestre\L5 -- Lizbeth Herera 1246024\obj\Debug\net8.0\ref\L5 -- Lizbeth Herera 1246024.dll
