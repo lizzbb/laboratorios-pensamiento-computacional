@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = L6___Lizbrth_Herrera___1246024
+build_property.ProjectDir = C:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL (lab) 1er semestre\L6 - Lizbrth Herrera - 1246024\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

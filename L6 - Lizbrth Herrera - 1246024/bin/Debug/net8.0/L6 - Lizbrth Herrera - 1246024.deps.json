@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "L6 - Lizbrth Herrera - 1246024/1.0.0": {
+        "runtime": {
+          "L6 - Lizbrth Herrera - 1246024.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "L6 - Lizbrth Herrera - 1246024/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
