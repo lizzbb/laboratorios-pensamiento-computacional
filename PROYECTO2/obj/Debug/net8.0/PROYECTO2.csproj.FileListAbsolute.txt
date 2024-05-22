@@ -1,0 +1,14 @@
+C:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL (lab) 1er semestre\Proyectos\PROYECTO2\bin\Debug\net8.0\PROYECTO2.exe
+C:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL (lab) 1er semestre\Proyectos\PROYECTO2\bin\Debug\net8.0\PROYECTO2.deps.json
+C:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL (lab) 1er semestre\Proyectos\PROYECTO2\bin\Debug\net8.0\PROYECTO2.runtimeconfig.json
+C:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL (lab) 1er semestre\Proyectos\PROYECTO2\bin\Debug\net8.0\PROYECTO2.dll
+C:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL (lab) 1er semestre\Proyectos\PROYECTO2\bin\Debug\net8.0\PROYECTO2.pdb
+C:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL (lab) 1er semestre\Proyectos\PROYECTO2\obj\Debug\net8.0\PROYECTO2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL (lab) 1er semestre\Proyectos\PROYECTO2\obj\Debug\net8.0\PROYECTO2.AssemblyInfoInputs.cache
+C:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL (lab) 1er semestre\Proyectos\PROYECTO2\obj\Debug\net8.0\PROYECTO2.AssemblyInfo.cs
+C:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL (lab) 1er semestre\Proyectos\PROYECTO2\obj\Debug\net8.0\PROYECTO2.csproj.CoreCompileInputs.cache
+C:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL (lab) 1er semestre\Proyectos\PROYECTO2\obj\Debug\net8.0\PROYECTO2.dll
+C:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL (lab) 1er semestre\Proyectos\PROYECTO2\obj\Debug\net8.0\refint\PROYECTO2.dll
+C:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL (lab) 1er semestre\Proyectos\PROYECTO2\obj\Debug\net8.0\PROYECTO2.pdb
+C:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL (lab) 1er semestre\Proyectos\PROYECTO2\obj\Debug\net8.0\PROYECTO2.genruntimeconfig.cache
+C:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL (lab) 1er semestre\Proyectos\PROYECTO2\obj\Debug\net8.0\ref\PROYECTO2.dll
